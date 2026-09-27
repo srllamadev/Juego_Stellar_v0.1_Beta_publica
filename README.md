@@ -287,6 +287,4 @@ Puedes pegar algo así en la plataforma:
 
 ### Entonces, ¿ya terminaste?
 
-**Código: sí. Tests: sí. Testnet: sí. Regla de 500: sí. Transacción exitosa: sí. Evidencia blockchain: sí.**
-
-Te falta únicamente **grabar/subir el video (o entregar las capturas)**. Y yo haría ese pequeño cambio en `user-tool.sh` para que el repositorio refleje exactamente el flujo `100 ❌ → 500 ✅ → balance 5`, y así no quede ningún punto discutible en la revisión.
+Falta únicamente **grabar/subir el video (o entregar las capturas)**. Y yo haría ese pequeño cambio en `user-tool.sh` para que el repositorio refleje exactamente el flujo `100 ❌ → 500 ✅ → balance 5`, y así no quede ningún punto discutible en la revisión.
